@@ -1,4 +1,4 @@
-# Notepad==
+# Notepad== Rich-text-Edition
 Simple notepad for Macs
 
 System requirements:
